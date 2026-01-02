@@ -88,8 +88,8 @@ Sempre buscando **código limpo**, **boas práticas** e **escalabilidade**.
 
 ## 📫 Entre em contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN  
-- 📧 Email: SEUEMAIL@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/willame-alves-
+- 📧 Email: willamelions@email.com  
 
 <p align="center">
   <em>"Código limpo, soluções simples e evolução constante."</em>

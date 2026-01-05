@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Willame Alves</h1>
+<h1 align="center">Me sou Willame Alves</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong><br>
